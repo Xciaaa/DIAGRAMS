@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="HEfJ9Mf6gjJPGKgJ1aGl-112" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="ESP32 Pin Mapping Table" vertex="1">
+        <mxCell id="HEfJ9Mf6gjJPGKgJ1aGl-112" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Block Diagram" vertex="1">
           <mxGeometry height="30" width="280" x="-550" y="80" as="geometry" />
         </mxCell>
         <mxCell id="BnQNMIeu7jfh3SMuSvUH-159" edge="1" parent="1" source="BnQNMIeu7jfh3SMuSvUH-156" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="BnQNMIeu7jfh3SMuSvUH-157">
