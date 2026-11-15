@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="5Spsr9nDnHugUlKpXUzW">
-    <mxGraphModel dx="2554" dy="992" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2028" dy="686" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -45,12 +45,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="BnQNMIeu7jfh3SMuSvUH-196" edge="1" parent="1" source="BnQNMIeu7jfh3SMuSvUH-160" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="BnQNMIeu7jfh3SMuSvUH-195">
+        <mxCell id="BnQNMIeu7jfh3SMuSvUH-196" edge="1" parent="1" source="BnQNMIeu7jfh3SMuSvUH-160" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-491" y="520" />
               <mxPoint x="-664" y="520" />
             </Array>
+            <mxPoint x="-664" y="540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BnQNMIeu7jfh3SMuSvUH-160" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="WIFI" vertex="1">
@@ -152,40 +153,41 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="BnQNMIeu7jfh3SMuSvUH-201" edge="1" parent="1" source="BnQNMIeu7jfh3SMuSvUH-195" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="BnQNMIeu7jfh3SMuSvUH-197">
+        <mxCell id="BnQNMIeu7jfh3SMuSvUH-201" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="BnQNMIeu7jfh3SMuSvUH-197">
           <mxGeometry relative="1" x="0.1355" as="geometry">
             <Array as="points">
               <mxPoint x="-664" y="620" />
               <mxPoint x="-769" y="620" />
             </Array>
+            <mxPoint x="-664" y="600" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BnQNMIeu7jfh3SMuSvUH-202" edge="1" parent="1" source="BnQNMIeu7jfh3SMuSvUH-195" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="BnQNMIeu7jfh3SMuSvUH-198">
+        <mxCell id="BnQNMIeu7jfh3SMuSvUH-202" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="BnQNMIeu7jfh3SMuSvUH-198">
           <mxGeometry relative="1" x="0.2471" as="geometry">
             <Array as="points">
               <mxPoint x="-664" y="620" />
               <mxPoint x="-699" y="620" />
             </Array>
+            <mxPoint x="-664" y="600" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BnQNMIeu7jfh3SMuSvUH-203" edge="1" parent="1" source="BnQNMIeu7jfh3SMuSvUH-195" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="BnQNMIeu7jfh3SMuSvUH-200">
+        <mxCell id="BnQNMIeu7jfh3SMuSvUH-203" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="BnQNMIeu7jfh3SMuSvUH-200">
           <mxGeometry relative="1" x="0.0065" as="geometry">
             <Array as="points">
               <mxPoint x="-664" y="620" />
               <mxPoint x="-559" y="620" />
             </Array>
+            <mxPoint x="-664" y="600" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BnQNMIeu7jfh3SMuSvUH-204" edge="1" parent="1" source="BnQNMIeu7jfh3SMuSvUH-195" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="BnQNMIeu7jfh3SMuSvUH-199">
+        <mxCell id="BnQNMIeu7jfh3SMuSvUH-204" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="BnQNMIeu7jfh3SMuSvUH-199">
           <mxGeometry relative="1" x="0.0118" as="geometry">
             <Array as="points">
               <mxPoint x="-664" y="620" />
               <mxPoint x="-629" y="620" />
             </Array>
+            <mxPoint x="-664" y="600" as="sourcePoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="BnQNMIeu7jfh3SMuSvUH-195" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="DATABASE&lt;br&gt;(Firebase)" vertex="1">
-          <mxGeometry height="60" width="70" x="-699" y="540" as="geometry" />
         </mxCell>
         <mxCell id="BnQNMIeu7jfh3SMuSvUH-197" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Notification / Alarm" vertex="1">
           <mxGeometry height="60" width="60" x="-799" y="650" as="geometry" />
@@ -198,6 +200,9 @@
         </mxCell>
         <mxCell id="BnQNMIeu7jfh3SMuSvUH-200" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Scheduling" vertex="1">
           <mxGeometry height="60" width="60" x="-589" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="dSbhhtjiQ9UgStLiE7Qa-1" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="DATABASE&lt;br&gt;(Firebase)" vertex="1">
+          <mxGeometry height="70" width="70" x="-699" y="540" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
